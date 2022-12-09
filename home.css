@@ -1,0 +1,11 @@
+.contentCenter{
+    justify-content: center;
+    text-align: center;
+}
+ 
+
+.setVisibility{
+    z-index: -1;
+    
+}
+
